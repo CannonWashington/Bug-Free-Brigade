@@ -65,7 +65,7 @@ bandit was used to scan for security vulnerabilities in the live code.
 
 # Test Coverage
 
-![img.png](Screenshots/Testcoverage.png)
+![img.png](../Screenshots/Testcoverage.png)
 
 # Database structure  
 
